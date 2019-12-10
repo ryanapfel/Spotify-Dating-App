@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/ITP-Webdev/final-project-ryanapfel.svg?token=3QyrnpNRVqp48hq8MNdz&branch=master)](https://travis-ci.com/ITP-Webdev/final-project-ryanapfel)
 
 ### Insecure URL:
-[Insecure Demo Link](htttp://www.extra-large-baby.surge.sh)
+extra-large-baby.surge.sh
 ** I wouldn't recommend using and login or signup features bc the app is not encrypted **
 ### Youtube Demo
 
