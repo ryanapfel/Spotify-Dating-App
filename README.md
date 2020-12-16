@@ -1,5 +1,5 @@
 
-# Spotify Dating Ap
+# Spotify Dating App [![Build Status](https://travis-ci.com/ITP-Webdev/final-project-ryanapfel.svg?token=3QyrnpNRVqp48hq8MNdz&branch=master)](https://travis-ci.com/ITP-Webdev/final-project-ryanapfel)
 
 ## About
 
@@ -17,7 +17,7 @@ A dating app, or website, that only displays a users music preference.
 
 
 
-[![Build Status](https://travis-ci.com/ITP-Webdev/final-project-ryanapfel.svg?token=3QyrnpNRVqp48hq8MNdz&branch=master)](https://travis-ci.com/ITP-Webdev/final-project-ryanapfel)
+
 
 ### Insecure URL:
 extra-large-baby.surge.sh
